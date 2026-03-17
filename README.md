@@ -40,5 +40,6 @@ Everyday Functioning Prompts:
   “How is encryption used in daily life when sending WhatsApp messages?”
 
   OUTPUT:
+[madavan prompy 4.docx](https://github.com/user-attachments/files/26041866/madavan.prompy.4.docx)
 
   RESULT:
